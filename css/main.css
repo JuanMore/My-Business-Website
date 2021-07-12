@@ -1497,6 +1497,16 @@ h6 {
     .home .intro h3 span:before {
         display: none;
     }
+    .home {
+        background: url(../images/hero.jpeg) center center no-repeat fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        position: relative;
+        height: 100vh;
+        overflow: hidden;
+    }
     
     /*=========== About Me ============*/
     .about-me {
