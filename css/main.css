@@ -1677,6 +1677,10 @@ h6 {
     .about-me .about-info .personal-info {
         padding: 20px 15px;
     }
+
+    .about-info b {
+        font-size: 2.5rem;
+    }
     
     /*=========== Skills ============*/
     .skills .skills-content h3 {
