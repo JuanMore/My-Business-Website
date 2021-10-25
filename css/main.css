@@ -819,7 +819,7 @@ h6 {
   }
   
   .img-fluid {
-    width: auto;
+    width: 100%;
   }
   
   .card {
