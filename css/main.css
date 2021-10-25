@@ -810,6 +810,7 @@ h6 {
   
   .project .project-item {
     width: 100%;
+    max-height: 400px;
     cursor: pointer;
     position: relative;
     display: block;
