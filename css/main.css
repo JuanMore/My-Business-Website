@@ -803,8 +803,9 @@ h6 {
 }
 
 /* Projects */  
+
   .text-color-2 {
-    color: #fff;
+    color: rgb(236, 11, 11);
   }
   
   .project .project-item {
@@ -826,7 +827,7 @@ h6 {
     box-sizing: border-box;
     max-width: 400px;
     padding: 0;
-    background-color: rgba(255, 255, 255, 0.925);
+    background-color: #36353b;
       border-radius: 1px;
       overflow: hidden;
   }
