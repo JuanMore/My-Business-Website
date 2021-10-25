@@ -816,7 +816,6 @@ h6 {
     max-width: 25rem;
     border-radius: 0.5rem;
     overflow: hidden;
-    
   }
   
   .img-fluid {
@@ -840,6 +839,11 @@ h6 {
       box-shadow: 0 6px 8px rgba(83, 83, 83, 0.4);
   
   }
+
+  .project i {
+      font-size: 2rem;
+  }
+  
 
 
 /* .portfolio .portfolio-content .item {
