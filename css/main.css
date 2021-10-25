@@ -802,7 +802,58 @@ h6 {
     color: #f5865d;
 }
 
-.portfolio .portfolio-content .item {
+/* Projects */
+
+#projects {
+    background-image: var(--new--gradient);
+      -webkit-clip-path: polygon(0 15vh,100% 0,100% 100%,0 100%);
+          clip-path: polygon(0 15vh,100% 0,100% 100%,0 100%);
+          padding: 6rem 0 10rem;
+          margin-top: 0rem;
+          margin-bottom: -1px;
+    margin-top: -5vw;
+    background-color: white;
+  }
+  
+  .text-color-2 {
+    color: #fff;
+  }
+  
+  .project .project-item {
+    width: 100%;
+    cursor: pointer;
+    position: relative;
+    display: block;
+    max-width: 25rem;
+    border-radius: 0.5rem;
+    overflow: hidden;
+    
+  }
+  
+  .img-fluid {
+    width: auto;
+  }
+  
+  .card {
+    box-sizing: border-box;
+    max-width: 400px;
+    padding: 0;
+    background-color: rgba(255, 255, 255, 0.925);
+      border-radius: 1px;
+      overflow: hidden;
+  }
+  
+  .card-body {
+    padding: 5px;
+  }
+  
+  .card:hover {
+      box-shadow: 0 6px 8px rgba(83, 83, 83, 0.4);
+  
+  }
+
+
+/* .portfolio .portfolio-content .item {
     position: relative;
     overflow: hidden;
     margin-bottom: 30px;
@@ -862,7 +913,7 @@ h6 {
     font-size: 15px;
     font-weight: 600;
     letter-spacing: 2px;
-}
+} */
 
 /* --------------------------------------
    11. Fun Facts
