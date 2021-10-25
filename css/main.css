@@ -802,19 +802,7 @@ h6 {
     color: #f5865d;
 }
 
-/* Projects */
-
-#projects {
-    background-image: var(--new--gradient);
-      -webkit-clip-path: polygon(0 15vh,100% 0,100% 100%,0 100%);
-          clip-path: polygon(0 15vh,100% 0,100% 100%,0 100%);
-          padding: 6rem 0 10rem;
-          margin-top: 0rem;
-          margin-bottom: -1px;
-    margin-top: -5vw;
-    background-color: white;
-  }
-  
+/* Projects */  
   .text-color-2 {
     color: #fff;
   }
