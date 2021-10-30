@@ -83,6 +83,15 @@ h6 {
     font-weight: 400;
 }
 
+.mt-1 {
+    margin-top: 1rem;
+}
+.mt-2 {
+    margin-top: 2rem;
+}
+.mt-3 {
+    margin-top: 3rem;
+}
 /*=========== My Classes ============*/
 .main-title {
     margin-bottom: 60px;
